@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|c:\\users\\user1\\documents\\programing\\erdviewer\\erdviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|c:\\users\\user1\\documents\\programing\\erdviewer\\erdviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|c:\\users\\user1\\documents\\programing\\erdviewer\\erdviewer\\styles\\graphstyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\styles\\graphstyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|c:\\users\\user1\\documents\\programing\\erdviewer\\erdviewer\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|c:\\users\\user1\\documents\\programing\\erdviewer\\erdviewer\\models\\foreignkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\models\\foreignkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|c:\\users\\user1\\documents\\programing\\erdviewer\\erdviewer\\dataaccess\\loadschemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\dataaccess\\loadschemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 588,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForeignKey.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Models\\ForeignKey.cs",
+              "RelativeDocumentMoniker": "ERDViewer\\Models\\ForeignKey.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Models\\ForeignKey.cs",
+              "RelativeToolTip": "ERDViewer\\Models\\ForeignKey.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:01:49.905Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ERDViewer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "ERDViewer\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:09:30.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ERDViewer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\MainWindow.xaml",
+              "RelativeToolTip": "ERDViewer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-22T15:09:30.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphStyles.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Styles\\GraphStyles.cs",
+              "RelativeDocumentMoniker": "ERDViewer\\Styles\\GraphStyles.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Styles\\GraphStyles.cs",
+              "RelativeToolTip": "ERDViewer\\Styles\\GraphStyles.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:11:50.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "ERDViewer\\Models\\Table.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Models\\Table.cs",
+              "RelativeToolTip": "ERDViewer\\Models\\Table.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:01:17.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadSchemaService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\DataAccess\\LoadSchemaService.cs",
+              "RelativeDocumentMoniker": "ERDViewer\\DataAccess\\LoadSchemaService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\DataAccess\\LoadSchemaService.cs",
+              "RelativeToolTip": "ERDViewer\\DataAccess\\LoadSchemaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:16:41.584Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
