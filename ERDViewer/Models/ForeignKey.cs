@@ -1,27 +1,4 @@
-﻿//namespace ERDViewer.Models
-//{
-//    //public enum CardinalityDirection
-//    //{
-//    //    OneToOne,     
-//    //    OneToMany,  
-//    //    ManyToOne,    
-//    //    Unknown
-//    //}
-
-
-
-//    public class ForeignKey
-//    {
-//        public string Name { get; set; }
-//        public string ReferencedTable { get; set; }
-//        public string ReferencedColumn { get; set; }
-//        public string Column { get; set; }
-//        public bool IsUnique { get; set; }
-//        public bool IsNullable { get; set; }
-
-//    }
-//}
-namespace ERDViewer.Models
+﻿namespace ERDViewer.Models
 {
     public class ForeignKey
     {

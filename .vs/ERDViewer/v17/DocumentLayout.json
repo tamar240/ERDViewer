@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|c:\\users\\user1\\documents\\programing\\erdviewer\\erdviewer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|c:\\users\\user1\\documents\\programing\\erdviewer\\erdviewer\\styles\\graphstyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6B30189-C80E-4CD5-8D38-ED346B04AFB5}|ERDViewer\\ERDViewer.csproj|solutionrelative:erdviewer\\styles\\graphstyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,16 +42,17 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ForeignKey.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Models\\ForeignKey.cs",
               "RelativeDocumentMoniker": "ERDViewer\\Models\\ForeignKey.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Models\\ForeignKey.cs",
               "RelativeToolTip": "ERDViewer\\Models\\ForeignKey.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T18:01:49.905Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,10 +62,22 @@
               "RelativeDocumentMoniker": "ERDViewer\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\MainWindow.xaml.cs",
               "RelativeToolTip": "ERDViewer\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T15:09:30.276Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\App.xaml",
+              "RelativeDocumentMoniker": "ERDViewer\\App.xaml",
+              "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\App.xaml",
+              "RelativeToolTip": "ERDViewer\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T15:39:06.117Z",
               "EditorCaption": ""
             },
             {
@@ -77,40 +94,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GraphStyles.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Styles\\GraphStyles.cs",
               "RelativeDocumentMoniker": "ERDViewer\\Styles\\GraphStyles.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Styles\\GraphStyles.cs",
               "RelativeToolTip": "ERDViewer\\Styles\\GraphStyles.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T14:11:50.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Table.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Models\\Table.cs",
               "RelativeDocumentMoniker": "ERDViewer\\Models\\Table.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\Models\\Table.cs",
               "RelativeToolTip": "ERDViewer\\Models\\Table.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T18:01:17.615Z"
+              "WhenOpened": "2025-07-22T18:01:17.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoadSchemaService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\DataAccess\\LoadSchemaService.cs",
               "RelativeDocumentMoniker": "ERDViewer\\DataAccess\\LoadSchemaService.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\programing\\ERDViewer\\ERDViewer\\DataAccess\\LoadSchemaService.cs",
               "RelativeToolTip": "ERDViewer\\DataAccess\\LoadSchemaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:16:41.584Z"
+              "WhenOpened": "2025-07-23T07:16:41.584Z",
+              "EditorCaption": ""
             }
           ]
         },
